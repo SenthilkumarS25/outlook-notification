@@ -22,8 +22,6 @@ The following are common tasks that an application performs with webhooks subscr
 - The application ID and key from the application that you [register on the Azure Portal](#register-the-app).
 - A public HTTPS endpoint to receive and send HTTP requests. You can host this on Microsoft Azure or another service, or you can [use ngrok](#ngrok) or a similar tool while testing.
 
-> You can install OpenSSL on windows using [chocolatey](https://chocolatey.org/install) with `choco install openssl -y` (run as administrator).
-
 ### Clone the repository
 Open Terminal to clone the repository
 ```Shell
